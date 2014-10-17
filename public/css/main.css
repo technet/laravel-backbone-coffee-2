@@ -1,0 +1,21 @@
+.header {
+    height: 100px;
+    background-color: #847fd0;
+    padding: 10px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+h2 span {
+    padding-right: 10px;
+}
+
+#results, #search {
+    background-color: #f5f5f5;    
+    padding-top: 10px;
+}
+
+
+#results {    
+    min-height: 200px;
+}
